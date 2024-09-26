@@ -23,7 +23,7 @@ A criação de NFTs é uma maneira inovadora de explorar a propriedade digital e
 ## Imagens
 Veja abaixo algumas imagens que demonstram o sucesso da criação da NFT:
 
-![Imagem do NFT](imagens/nft-imagem.png)
+![Imagem do NFT](primeiranft.jpg)
 
 ## Envio da NFT
 A NFT foi enviada para a seguinte carteira conforme solicitado:
